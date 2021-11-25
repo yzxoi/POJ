@@ -4,8 +4,15 @@
 
 ## 中级
 
-### 动态规划
+### 3.2 图算法
 
+#### 双连通分量
+
+1. POJ 2942 - Knights of the Round Table
+
+### 3.5 动态规划
+
+#### 较复杂的动态规划（如特别的旅行商问题等）
 1. POJ 1191 - 棋盘分割
 1. POJ 1054 - The Troublesome Frog
 3. POJ 3280 - Cheapest Palindrome
