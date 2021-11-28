@@ -18,4 +18,6 @@
 3. POJ 3280 - Cheapest Palindrome
 3. POJ 2029 - Get Many Persimmon Trees
 3. POJ 2948 - Martian Mining
+3. POJ 1925 - Spiderman
+3. POJ 3034 - Whac-a-Mole
 
