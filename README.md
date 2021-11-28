@@ -4,9 +4,21 @@
 
 ## 中级
 
+### 3.1 基本算法
+
+#### 3.1.1 C++的标准模版库的应用
+
+1. POJ 3096 - Surprising Strings
+2. POJ 3007 - Organize Your Train part II
+
+#### 3.1.2 较为复杂的模拟题的训练
+
+1. POJ 3393 - Lucky and Good Months by Gregorian Calendar
+2. POJ 3371 - Flesch Reading Ease
+
 ### 3.2 图算法
 
-#### 3.2.1 差分约束系统的建立和 求解
+#### 3.2.1 差分约束系统的建立和求解
 
 1. POJ 1201 - Intervals
 2. POJ 2983 - Is the Information Reliable?
